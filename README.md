@@ -1,2 +1,5 @@
-<!-- 紧凑布局的全局语言统计卡片 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuZaiGong&layout=compact&theme=radical)
+<!-- 统计您最常用的语言（饼图） -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=HuZaiGong&theme=default)
+
+<!-- 统计您的代码提交量语言占比（条形图） -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time.svg?username=HuZaiGong&theme=default)
